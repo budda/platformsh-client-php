@@ -15,6 +15,7 @@ Add this requirement to your `composer.json` file:
 
 Example:
 ```php
+require 'vendor/autoload.php';
 
 use Platformsh\Client\PlatformClient;
 
